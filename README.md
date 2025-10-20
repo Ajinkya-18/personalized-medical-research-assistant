@@ -2,6 +2,9 @@
 
 This repository contains a small, focused project that builds a retrieval-augmented generation (RAG) style medical research assistant specialized for neuroscience-related documents. The application uses local PDF research papers (in `knowledge-base/`), embeds them with a pre-trained sentence-transformer, stores vectors in a local FAISS index, and serves a Streamlit chat-style UI that answers user questions grounded strictly in the provided documents.
 
+## Streamlit App
+[Personalized Neuroscience Research Assistant](https://personalized-neuroscience-research-assistant.streamlit.app/)
+
 Contents
 
 - `app/` - Streamlit application that exposes a chat UI and a RAG chain using an Ollama LLM and the FAISS vector store.
