@@ -1,4 +1,9 @@
 knowledge-base/
 faiss_index/
 .env
+*.pdf
+*.pkl
+*.png
+
+
 
