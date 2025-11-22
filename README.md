@@ -12,8 +12,11 @@ python_version: "3.10"
 
 This repository contains a small, focused project that builds a retrieval-augmented generation (RAG) style medical research assistant specialized for neuroscience-related documents. The application uses local PDF research papers (in `knowledge-base/`), embeds them with a pre-trained sentence-transformer, stores vectors in a local FAISS index, and serves a Streamlit chat-style UI that answers user questions grounded strictly in the provided documents.
 
-## Streamlit App
-[Personalized Neuroscience Research Assistant](https://personalized-neuroscience-research-assistant.streamlit.app/)
+## HuggingFace Space
+[Neuroscience Research Assistant](https://huggingface.co/spaces/Infernus-18/personalized-medical-research-assistant)
+
+## Hire me for your RAG/Chat-with-PDF Project:
+[Fiverr Link](https://www.fiverr.com/s/5r9N3W1)
 
 ## Contents
 
